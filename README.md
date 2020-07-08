@@ -7,6 +7,7 @@ A small and robust script written in Node.js to help you transfer files between 
 ## Instructions for Use :
 - Download this repository
 - cd into the folder and run `npm install`
+- Change the `newPath` on line 28 in Index.js to the path you want to store the files in. Make sure the path exists.
 - run `node .`
 
 ## Contributing
