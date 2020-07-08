@@ -1,0 +1,28 @@
+{
+  "name": "ltransfer",
+  "version": "1.0.0",
+  "description": "A file utility to help you transfer files over your local network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umaralam48/LTransfer.git"
+  },
+  "keywords": [
+    "file",
+    "transfer",
+    "formidable",
+    "sharing"
+  ],
+  "author": "Mohd Umar Alam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umaralam48/LTransfer/issues"
+  },
+  "homepage": "https://github.com/umaralam48/LTransfer#readme",
+  "dependencies": {
+    "formidable": "^1.2.2"
+  }
+}
